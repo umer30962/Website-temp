@@ -242,3 +242,7 @@
     align-items: center;
     margin-bottom: 100px;
 }
+
+.blog_img {
+    border-radius: 10px;
+}
