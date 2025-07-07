@@ -212,3 +212,33 @@
     background-color: hsl(16, 86%, 42%);
     color: white;
 }
+
+
+.blog{
+
+        position: relative;
+    align-items: center;
+    text-align: center;
+    margin-top: 130px;
+  
+}
+
+.blog h1 {
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+
+.blog p{
+
+    margin-left: 50px;
+    margin-right: 50px;
+ 
+}
+
+.row-3{
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
