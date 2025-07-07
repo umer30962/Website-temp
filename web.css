@@ -130,7 +130,7 @@
     margin-bottom: 20px;
     margin-left: 100px;
     margin-right: 100px;
-   
+
 }
 
 .col {
@@ -145,7 +145,7 @@
     padding-right: 20px;
     border-radius: 10px;
     transition: 0.5s;
-       cursor: pointer;
+    cursor: pointer;
 }
 
 .col:hover {
@@ -154,7 +154,7 @@
 
 }
 
-.section_course{
+.section_course {
 
     position: relative;
     align-items: center;
@@ -167,12 +167,14 @@
     font-size: 50px;
     margin-bottom: 50px;
 }
-.section_course p{
+
+.section_course p {
 
     margin-left: 200px;
     margin-right: 200px;
 }
-.row-2{
+
+.row-2 {
     margin-top: 100px;
     display: flex;
     justify-content: space-between;
@@ -214,13 +216,13 @@
 }
 
 
-.blog{
+.blog {
 
-        position: relative;
+    position: relative;
     align-items: center;
     text-align: center;
     margin-top: 130px;
-  
+
 }
 
 .blog h1 {
@@ -228,14 +230,14 @@
     margin-bottom: 100px;
 }
 
-.blog p{
+.blog p {
 
     margin-left: 50px;
     margin-right: 50px;
- 
+
 }
 
-.row-3{
+.row-3 {
     margin-right: 50px;
     display: flex;
     justify-content: space-between;
